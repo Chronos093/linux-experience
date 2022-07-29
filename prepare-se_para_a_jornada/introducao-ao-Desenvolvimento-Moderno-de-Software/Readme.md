@@ -59,3 +59,46 @@
 >Afinal, a atuação de um programador pode ter muita criatividade, mas também traz aspectos mecânicos, de repetição de tarefas, que seriam maçantes sem a possibilidade de automatização. Exemplos, Angular, Laravel e Vue.
 
 
+## Desenvolvedor Back End
+>Back End, como o próprio nome sugere, vem da ideia do que tem por trás de uma aplicação. O Back End trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validação e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo. Exemplo, Java, PHP, C#.
+
+
+## API
+>Acrônimo de Aplication Programming Interface (Interface de Porgramação de Aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um  app como o Facebook, envia uma mensagem instantânea ou verifica a previsão do tempo em seu telefone, você está usando uma API.
+
+
+![API](api_esquema.png "API")
+
+
+## Desenvolvedor Full Stack
+>Um Full Stack é alguém que trabalha como Back End do aplicativo, bem como o Front End. Desenvolvedores Full Stack precisam ter algumas habilidades em uma ampla variedade de linguagens de programação.
+
+
+## Quality Assurance (QA)
+>QA pode ser definida como um conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores um produto ou serviço com alto nível de qualidade. No desenvolvimento de software, aplicar os métodos de QA geram confiança e segurança aos clientes, indicando que os seus produtos terão a qualidade esperada na etapa de implantação.
+
+
+>O profissional de QA deve ter conhecimento sobre as atividades do projeto, além de ter um prefil analítico. Ele verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados no produto serão entregues.
+
+
+### Atividades e profissionais em nuvem privada
+ - Segurança da Tecnologia da Informação (lógica e física);
+ - Mão de obra especializada (software e hardware)
+ - Infraestrutura local
+
+
+## Nuvem Pública
+>Os sistemas em nuvem são sistemas de armazenamento de dados disponibilizandos via internet, em vez de servidores físicos tradicionais. Hoje, muitas organizações estão migrando o armazenamento de dados de servidores físicos para sistemas baseados em nuvem.
+
+
+### Vantagens de migrar para a nuvem pública
+ - Preço (pague somente o que usa);
+ - Facilidade de contratação, configuração e infraestrutura;
+ - Escalabilidade;
+ - Performance
+
+
+## Profissional de Clound Computing
+>O profissional de Clound é responsável pela infraestrutura de nuvem oferecida aos clientes. Mais do que desenhar o sistemas ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construído.
+
+
