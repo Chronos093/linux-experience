@@ -85,7 +85,7 @@ fi
 
 # Cria um arquivo tnsnames.ora de exemplo, se ainda não existir
 if [ ! -f "$tnsPath/tnsnames.ora" ]; then
-    echo "CLOUD =" > $tnsPath/tnsnames.ora
+    echo "CONEXAO =" > $tnsPath/tnsnames.ora
     echo "  (DESCRIPTION =" >> $tnsPath/tnsnames.ora
     echo "    (ADDRESS = (PROTOCOL = )(HOST = )(PORT = ))" >> $tnsPath/tnsnames.ora
     echo "    (CONNECT_DATA =" >> $tnsPath/tnsnames.ora
