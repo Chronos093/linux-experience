@@ -87,10 +87,10 @@ fi
 if [ ! -f "$tnsPath/tnsnames.ora" ]; then
     echo "CONEXAO =" > $tnsPath/tnsnames.ora
     echo "  (DESCRIPTION =" >> $tnsPath/tnsnames.ora
-    echo "    (ADDRESS = (PROTOCOL = )(HOST = )(PORT = ))" >> $tnsPath/tnsnames.ora
+    echo "    (ADDRESS = (PROTOCOL = <>)(HOST = <>)(PORT = <>))" >> $tnsPath/tnsnames.ora
     echo "    (CONNECT_DATA =" >> $tnsPath/tnsnames.ora
-    echo "      (SERVER = )" >> $tnsPath/tnsnames.ora
-    echo "      (SERVICE_NAME = )" >> $tnsPath/tnsnames.ora
+    echo "      (SERVER = <>)" >> $tnsPath/tnsnames.ora
+    echo "      (SERVICE_NAME = <>)" >> $tnsPath/tnsnames.ora
     echo "    )" >> $tnsPath/tnsnames.ora
     echo "  )" >> $tnsPath/tnsnames.ora
 
