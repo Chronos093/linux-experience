@@ -50,6 +50,13 @@ pacotes=(
     "org.raspberrypi.rpi-imager"
     "org.upscayl.Upscayl"
     "dev.deedles.Trayscale"
+    "org.localsend.localsend_app"
+    "com.warlordsoftwares.youtube-downloader-4ktube"
+    "com.github.iwalton3.jellyfin-media-player"
+    "org.freedesktop.Piper"
+    "com.belmoussaoui.Authenticator"
+    "net.codelogistics.webapps"
+    "io.github.realmazharhussain.GdmSettings"
     "io.github.flattool.Warehouse"
 )
 
